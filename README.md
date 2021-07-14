@@ -43,8 +43,6 @@
 
 <!-- --- -->
 
-<img align="left" alt="AZagatti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AZagatti&show_icons=true&hide_border=true" />
-
 [website]: https://azagatti.dev/
 [twitter]: https://twitter.com/andre_zagatti
 [youtube]: https://www.youtube.com/user/DeeathAndre
