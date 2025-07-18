@@ -1,9 +1,21 @@
-### Hi there, I'm André Zagatti 👋
+### Hi, I'm André Zagatti 👋
 
-## I'm a software engineer, focus on frontend and mobile.
-- 🔭 I’m currently evolving [My Website][website]
-- 🌱 I’m currently studying Svelte, Astro and mobile development (native and React Native new architecture)
-- 🥅 2023 Goals: Help a lot of people, post more articles and release more contents
+**Senior Software Engineer** with nearly 6 years of experience building and scaling high-volume consumer applications.
+
+My professional background is rooted in enhancing application performance, leading key feature implementations, and improving developer productivity through robust CI/CD pipelines and standardized technical decisions. I have a proven track record of mentoring engineering teams and serving as a technical reference in fast-paced environments.
+
+---
+
+**Core Competencies:**
+- **Languages:** JavaScript, TypeScript
+- **Frontend & Mobile:** React.js, React Native, Next.js
+- **Backend:** Node.js
+- **Practices & Tools:** CI/CD (GitHub Actions), TDD, System Architecture, Technical Leadership, Git
+
+**Current Focus & Professional Development:**
+- Expanding my backend expertise with **Python** and **Go**.
+
+---
 
 ### Connect with me:
 
@@ -12,20 +24,6 @@
 [<img align="left" alt="azagatti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="azagatti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="azagatti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-<!-- ### 📺 Latest YouTube Videos -->
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-<!-- --- -->
-
-<!-- ### 📕 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- --- -->
 
 [website]: https://azagatti.dev/
 [twitter]: https://twitter.com/andre_zagatti
